@@ -1,7 +1,7 @@
 <!-- Profile ReadMe Start -->
 
 <h1 align="center">
-  hey, i'm umesh 👋
+  hey, i'm Umesh 👋
 </h1>
 
 <p align="center">
